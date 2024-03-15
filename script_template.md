@@ -17,5 +17,5 @@
 
 
 ### Limit
-> Time limit - sec  
-> Memory limit - MB
+> Time - sec  
+> Memory - MB
